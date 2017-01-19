@@ -1,0 +1,19 @@
+<!--
+ * Copyright (c) 2016 Qualcomm Technologies, Inc.
+ * All Rights Reserved.
+ * Confidential and Proprietary - Qualcomm Technologies, Inc.
+-->
+<resources>
+    <string name="app_name">SNPE Image Classifiers</string>
+    <string name="loading_models">Loading models...</string>
+    <string name="model_extraction_failed">Failed to extract model.</string>
+    <string name="model_name">Model Name</string>
+    <string name="model_dimensions">Dimensions</string>
+    <string name="model_load_failed">Failed to load model</string>
+    <string name="output_layers">Output Layers</string>
+    <string name="loading_network">Loading Network...</string>
+    <string name="model_not_loaded">Model not yet loaded!</string>
+    <string name="classification_failed">Classification failed.</string>
+    <string name="model_version">Model Version</string>
+    <string name="snpe_version">SNPE version: %1$s</string>
+</resources>
